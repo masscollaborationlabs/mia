@@ -2,11 +2,10 @@
 
 # License
 
-Milli Yazılım İletişim ve Geliştirme Ağı
-
 BSD 3-Clause License
 
 Copyright (c) 2021, Masscollabs Services (procyberian), masif, and contributors
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
