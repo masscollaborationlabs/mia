@@ -1,10 +1,22 @@
 # mia
 
+Masscollabs İletişim Ağı : Milli Yazılım İletişim ve Geliştirme Ağı
+
 # License
+
+Masscollabs İletişim Ağı : Milli Yazılım İletişim ve Geliştirme Ağı
 
 BSD 3-Clause License
 
-Copyright (c) 2021, Masscollabs Services (procyberian), masif, and contributors
+Copyright (c) 2024 QB Networks
+
+Copyright (c) 2021-2024 Masscollabs Services 
+
+Copyright (c) 2024 procyberian and contributors
+
+Copyright (c) 2024 amassivus and contributors
+
+Copyright (c) 2024 Mass Collaboration Labs and contributors
 
 All rights reserved.
 
